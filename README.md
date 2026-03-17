@@ -38,10 +38,9 @@ Durante o desenvolvimento deste projeto, foram praticados:
 - Responsividade com media queries
 - Adaptação de layout para diferentes tamanhos de tela
 
-## 🔗 Acesse o projeto
+## 🔗 Visualização do projeto
 
-Repositório:
-https://github.com/devbymatheus/hosting-pricing-page
+https://devbymatheus.github.io/hosting-pricing-page
 
 ## 📚 Sobre
 
