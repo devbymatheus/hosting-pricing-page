@@ -59,7 +59,14 @@ a.header__nav--active {
 
 .pricing {
     display: flex;
+    flex-direction: column;
     gap: 16px;
+}
+
+@media (min-width: 768px) {
+    .pricing {
+        flex-direction: row;
+    }
 }
 
 .pricing-plan {
