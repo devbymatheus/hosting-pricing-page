@@ -63,12 +63,6 @@ a.header__nav--active {
     gap: 16px;
 }
 
-@media (min-width: 768px) {
-    .pricing {
-        flex-direction: row;
-    }
-}
-
 .pricing-plan {
     flex: 1;
     background-color:rgb(39, 42, 48);
@@ -123,4 +117,39 @@ a.header__nav--active {
     outline: 2px solid #77c926;
     background-color: transparent;
     color: white;
+}
+
+@media (max-width: 768px) {
+
+    header {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .header__nav ul {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .header__nav a {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .main-title {
+        font-size: 32px;
+    }
+
+    .pricing {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pricing-plan {
+        width: 100%;
+        max-width: 350px;
+    }
 }
