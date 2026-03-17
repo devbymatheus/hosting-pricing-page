@@ -10,6 +10,7 @@ O principal objetivo foi simular uma página real de apresentação de planos (p
 
 - HTML5
 - CSS3
+- Responsividade com Media Queries
 
 ## 📌 Funcionalidades
 
@@ -17,11 +18,13 @@ O principal objetivo foi simular uma página real de apresentação de planos (p
 - Estrutura de layout organizada em colunas
 - Botões de ação (Call to Action)
 - Interface visual moderna e limpa
+- Layout responsivo para mobile e desktop
 
-## 📸 Preview
+## 📱 Responsividade
 
-<!-- Adicione aqui a imagem -->
-![Preview](assets/preview.png)
+| Desktop | Mobile |
+|---|---|
+| ![Desktop](assets/preview.png) | ![Mobile](assets/preview_mobile.png) |
 
 ## 🚀 Aprendizados
 
@@ -32,6 +35,8 @@ Durante o desenvolvimento deste projeto, foram praticados:
 - Organização de elementos em cards
 - Estilização de botões e componentes
 - Alinhamento e espaçamento entre elementos
+- Responsividade com media queries
+- Adaptação de layout para diferentes tamanhos de tela
 
 ## 🔗 Acesse o projeto
 
